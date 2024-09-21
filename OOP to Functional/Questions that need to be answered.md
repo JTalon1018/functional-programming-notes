@@ -1,0 +1,1 @@
+1. How do i orchestrate a program that makes decisions if i dont have some sort of decision making tree? (Controller -> Orchestrator -> Function that makes decisions on where to go next)
