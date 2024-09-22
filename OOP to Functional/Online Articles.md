@@ -7,4 +7,4 @@ Blogs(?)
 - [[High Order Function practice guide]]
 
 Online Exercises:
-- https://edcharbeneau.com/csharp-functional-workshop-instructions/
+- [[Go All In With Functional C#]]
