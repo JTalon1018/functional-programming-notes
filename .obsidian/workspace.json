@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP to Functional/Functional Programming made easy in C.md",
+                "file": "OOP to Functional/High Order Function practice guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP to Functional/Functional Programming made easy in C.md",
+                "file": "OOP to Functional/High Order Function practice guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP to Functional/Functional Programming made easy in C.md",
+                "file": "OOP to Functional/High Order Function practice guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP to Functional/Functional Programming made easy in C.md"
+                "file": "OOP to Functional/High Order Function practice guide.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "7ef27fcdaee3fbda",
   "lastOpenFiles": [
-    "OOP to Functional/Online Articles.md",
     "OOP to Functional/Functional Programming made easy in C.md",
+    "OOP to Functional/Online Articles.md",
     "OOP to Functional/High Order Function practice guide.md",
     "OOP to Functional/Switching from OOP to Function Programming.md",
     "OOP to Functional/Type classes explained.md",
